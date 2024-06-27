@@ -1,4 +1,4 @@
-package com.tsnif.inheritance;
+package com.tnsif.inheritance;
 
 public class SingleInheritance {
 	public static void main(String[] args) {

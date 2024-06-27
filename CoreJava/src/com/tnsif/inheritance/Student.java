@@ -1,4 +1,4 @@
-package com.tsnif.inheritance;
+package com.tnsif.inheritance;
 
 public class Student extends Customer{
 	private String collegeName;

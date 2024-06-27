@@ -1,5 +1,5 @@
 // Program to demonstrate Single inheritance
-package com.tsnif.inheritance;
+package com.tnsif.inheritance;
 
 public class Customer {
 	private String name;
