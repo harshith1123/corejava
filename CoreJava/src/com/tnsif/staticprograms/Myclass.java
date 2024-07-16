@@ -10,7 +10,7 @@ public class Myclass {
 //		section++;
 	}
 	
-	public  Myclass() {
+	public Myclass() {
 		super();
 		System.out.println("------Default Constructor");
 	}

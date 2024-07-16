@@ -9,7 +9,7 @@ public class SecondWay implements Runnable{
 		th.start();
 //		th.start(); illegal thread state exception
 		th.run();
-		th.run();
+//		th.run();
 		
 	}
 	public void run() {

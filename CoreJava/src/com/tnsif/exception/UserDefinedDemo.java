@@ -10,6 +10,7 @@ public class UserDefinedDemo {
 		catch(Age e) {
 			System.out.println("Age exception is caught:"+e.getMessage());
 		}
+	
 	}
 
 }
