@@ -1,4 +1,4 @@
-package com.tnsif.assignment4;
+package com.harshit.assignment4;
 import java.util.Scanner;
 
 public class BankAccount {
