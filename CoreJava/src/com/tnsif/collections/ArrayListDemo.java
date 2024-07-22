@@ -26,12 +26,15 @@ public class ArrayListDemo {
 		Collections.sort(obj);
 		System.out.println("The elements of the array are:"+obj);
 		
-		Iterator<String> i=obj.iterator();
-		while(i.hasNext()) {
-			String nm=i.next();			
-			System.out.println(nm);
+//		Iterator<String> i=obj.iterator();
+//		while(i.hasNext()) {
+//			String nm=i.next();			
+//			System.out.println(nm);
+//		}
+		obj.forEach(e-> System.out.println(e));
+		for(String n:obj) {
+			System.out.println(n);
 		}
-		
 	}
 
 }

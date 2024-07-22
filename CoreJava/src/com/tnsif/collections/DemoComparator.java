@@ -22,5 +22,4 @@ public class DemoComparator {
 			System.out.println(arr.get(i));
 		}
 	}
-
 }
